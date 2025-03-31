@@ -29,7 +29,9 @@ The **2D Floor Planner** is a Java Swing-based GUI application that allows users
 - **Dragging Rooms**: Click and drag rooms within the canvas.
 - **Overlap Validation**: If placement is invalid, an error message is shown, and the room returns to its original position.
 - **Saving and Loading Plans**: Plans can be saved to a file and reloaded later.
-![Loading example](https://drive.google.com/uc?export=view&id=1FxhTMXqUqkClRUxtZArEZaKZu_xsWBNI)
+  <img src="https://drive.google.com/uc?export=view&id=1FxhTMXqUqkClRUxtZArEZaKZu_xsWBNI" width="400">
+</p>
+
 - **Rotation of Furniture**: Furniture items can be rotated in **90-degree steps** (Can be used via right click menu).
 
 ### Doors, Windows, and Furniture
